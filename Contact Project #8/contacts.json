@@ -1,0 +1,23 @@
+[
+    {
+        "name": "John Smith",
+        "phone": "555-123-4567",
+        "address": "123 Main Street, Springfield, IL 62701",
+        "email": "john.smith@email.com",
+        "date_added": "2026-05-02 21:44:06"
+    },
+    {
+        "name": "Michael Brown",
+        "phone": "555 246 8135",
+        "address": "789 Elm Street, Boston, MA 02101",
+        "email": "michael.brown@email.com",
+        "date_added": "2026-05-02 21:45:34"
+    },
+    {
+        "name": "James Dylan Fallenbeck",
+        "phone": "434-941-1720",
+        "address": "219 Ridge Drive",
+        "email": "Jdfallenbeck@gmail.com",
+        "date_added": "2026-05-02 21:50:10"
+    }
+]
